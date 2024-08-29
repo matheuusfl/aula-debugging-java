@@ -1,4 +1,4 @@
-public class main {
+public class MainClass {
     public static void main(String[] args) {
         System.out.println("Iniciou do programa no método main.");
         a();
